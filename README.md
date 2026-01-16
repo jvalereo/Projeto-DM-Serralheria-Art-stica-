@@ -47,7 +47,7 @@ DM Serralheria Artística Página Clientes
 
 <a target=_blank>
 DM Serralheria Artística Página Contato
-<target=_blank><img align="center"  alt="jonas-Layout"width="1360" height="100" src ="https://github.com/user-attachments/assets/fcd41cc9-07ec-461d-b15a-220737c31f26" style="max-width: 100%;"></img></target>
+<target=_blank><img align="center"  alt="jonas-Layout"width="1360" height="100%" src ="https://github.com/user-attachments/assets/fcd41cc9-07ec-461d-b15a-220737c31f26" style="max-width: 100%;"></img></target>
 </a>
 
 
