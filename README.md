@@ -2,9 +2,15 @@
 Projeto DM Serralheria Artística 
 
 # Layout
-
+DM Serralheria Artística Página Principal
 <a target=_blank>
 <target=_blank><img align="center"  alt="jonas-Layout" width="1360" height="100%" src ="https://github.com/user-attachments/assets/40c4a1b7-3557-4727-8471-9fbbd9e1af7c" style="max-width: 100%;"></img></target>
+</a>
+
+# Layout
+DM Serralheria Artística Página Principal
+<a target=_blank>
+<target=_blank><img align="center"  alt="jonas-Layout" width="1360" height="100%" src ="https://github.com/user-attachments/assets/15bd07c4-20a6-47e0-9b70-fdae4623ea75" style="max-width: 100%;"></img></target>
 </a>
 
 
