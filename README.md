@@ -4,8 +4,9 @@ Projeto DM Serralheria Artística
 # Layout
 
 <a target=_blank>
-<target=_blank><img align="center"  alt="jonas-Layout" height ="400" width ="380" src ="https://user-images.githubusercontent.com/25933386/117039428-25fdb300-acdf-11eb-8043-63419ec5ff04.jpg" style="max-width: 100%;"></img></target>
+<target=_blank><img align="center"  alt="jonas-Layout" width="1360" height="100%" src ="https://github.com/user-attachments/assets/40c4a1b7-3557-4727-8471-9fbbd9e1af7c" style="max-width: 100%;"></img></target>
 </a>
+
 
 <a target=_blank>
 <target=_blank><img align="center"  alt="jonas-C#" height ="400" width ="400" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></img></target>
