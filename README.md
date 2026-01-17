@@ -71,8 +71,8 @@ DM Serralheria Artística Página Contato
 
 # Tecnologia Aplicada no Projeto
 
-- Bak-end
-- C#
+- Corel Draw, Photoshop
+- WordPress desenvolvimento de sites
 
 # Como Executa o Projeto
 
