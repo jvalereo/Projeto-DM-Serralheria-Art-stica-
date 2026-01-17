@@ -65,10 +65,8 @@ DM Serralheria Artística Página Contato
 </a>
 
 # Site DM Serralheria Artística
-<a target=_blank>
-Visite o site <target=_blank> https://dmserralheriaartistica.com.br/</target> , sabia mais sobre nosso projeto.
-</a>
 
+Visite o site: https://dmserralheriaartistica.com.br/ , sabia mais sobre nosso projeto.
 
 # Sobre o Projeto
 
