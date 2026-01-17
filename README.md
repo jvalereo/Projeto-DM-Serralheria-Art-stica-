@@ -67,7 +67,7 @@ DM Serralheria Artística Página Contato
 # Site DM Serralheria Artística
 
 <a target=_blank>
-<target=_blank><img align="center"  alt="jonas-Dev" height ="70" width ="160" src ="https://dmserralheriaartistica.com.br/" style="max-width: 100%;"></img></target>
+<target=_blank><src ="https://dmserralheriaartistica.com.br/"></target>
 </a>
 
 # Sobre o Projeto
