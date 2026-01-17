@@ -51,12 +51,14 @@ DM Serralheria Artística Página Contato
 </a>
 
 
+# Tecnologia WordPress
+
 <a target=_blank>
 <target=_blank><img align="center"  alt="jonas-C#" height ="400" width ="400" src ="https://github.com/user-attachments/assets/d2c880ec-55cb-4433-a9b0-f01753089d08" style="max-width: 100%;"></img></target>
 </a>
-<img width="2000" height="2000" alt="Wordpress_Blue_logo" src="" />
 
-# Calcule Area do Quadrado
+
+# Sistema de desenvolvedor 
 
 <a target=_blank>
 <target=_blank><img align="center"  alt="jonas-Dev" height ="70" width ="160" src ="https://user-images.githubusercontent.com/25933386/116831049-87107400-ab83-11eb-947b-0a94a3e89f04.png" style="max-width: 100%;"></img></target>
