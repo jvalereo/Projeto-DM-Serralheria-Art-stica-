@@ -64,6 +64,12 @@ DM Serralheria Artística Página Contato
 <target=_blank><img align="center"  alt="jonas-Dev" height ="70" width ="160" src ="https://user-images.githubusercontent.com/25933386/116831049-87107400-ab83-11eb-947b-0a94a3e89f04.png" style="max-width: 100%;"></img></target>
 </a>
 
+# Site DM Serralheria Artística
+
+<a target=_blank>
+<target=_blank><img align="center"  alt="jonas-Dev" height ="70" width ="160" src ="https://dmserralheriaartistica.com.br/" style="max-width: 100%;"></img></target>
+</a>
+
 # Sobre o Projeto
 
 - Programa que calcula a area do quadrado, insere base, altura, operações, multiplicação e execulta o resultado na tela.
@@ -74,13 +80,8 @@ DM Serralheria Artística Página Contato
 
 # Tecnologia Aplicada no Projeto
 
-- Corel Draw, Photoshop
-- WordPress desenvolvimento de sites
-
-# Como Executa o Projeto
-
-- Pode fazer o download e executa na sua IDE de preferencia
-- Obs: Dentro da subpastas obj/Debug , tem o programa executavel
+- Ferramentas:  Corel Draw, Photoshop
+- Plataforma: WordPress desenvolvimento de sites
 
 # Autor
 
