@@ -1,5 +1,5 @@
 # Projeto-DM-Serralheria-Artística
-Projeto DM Serralheria Artística 
+Projeto Site Institucional DM Serralheria Artística 
 
 # Layout
 
