@@ -70,11 +70,14 @@ Visite o site: https://dmserralheriaartistica.com.br/ , sabia mais sobre nosso p
 
 # Sobre o Projeto
 
-- Programa que calcula a area do quadrado, insere base, altura, operações, multiplicação e execulta o resultado na tela.
-- Outros fatores, você também pode  fazer teste aleatorio, usando os buttons, Executa, Limpar, Sair, nesse projeto.
-- Projeto foi implemetado no  Windows Forms.
-- IDE Visual Studio
+- Projeto desenvolvido para a empresa DM SERRALHERIA ARTÍSTICA.
 
+- Desenvolvido o site institucional, layout gráfico, nos idiomas português, espanhol e inglês, compatível com os navegadores tradicionais da rede de internet.
+- O site DM Serralheria Artística tem a finalidade de vários serviços artísticos, residenciais, prediais, industriais e serviços gerais de manutenção.
+- Possui sete páginas no menu principal: home, blog, sobre, serviços, portfólio, clientes e contato. Contendo dois formulários, um de orçamento e um de contato.
+- Parte de web designer, possui banners principais, banners rotativos, figuras de imagens, links externos, redes sociais, informações sobre serviços executados.
+- O site DM Serralheria é um projeto institucional padronizado com toda a infraestrutura e segurança adequadas para este fim.
+- Quero agradecer à empresa por ter nos contratado e acreditado no nosso serviço e empenho para realizar mais um projeto tão importante.
 
 # Tecnologia Aplicada no Projeto
 
