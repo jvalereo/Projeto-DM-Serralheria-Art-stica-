@@ -74,7 +74,8 @@ Visite o site: https://dmserralheriaartistica.com.br/ , sabia mais sobre nosso p
 
 - Desenvolvido o site institucional, layout gráfico, nos idiomas português, espanhol e inglês, compatível com os navegadores tradicionais da rede de internet.
 - O site DM Serralheria Artística tem a finalidade de vários serviços artísticos, residenciais, prediais, industriais e serviços gerais de manutenção.
-- Possui sete páginas no menu principal: home, blog, sobre, serviços, portfólio, clientes e contato. Contendo dois formulários, um de orçamento e um de contato.
+- Possui 7 páginas no menu principal: home, blog, sobre, serviços, portfólio, clientes, contato e outras 22 de serviços, totalizando 29 páginas.
+- Contendo dois formulários, um de orçamento e um de contato.
 - Parte de web designer, possui banners principais, banners rotativos, figuras de imagens, links externos, redes sociais, informações sobre serviços executados.
 - O site DM Serralheria é um projeto institucional padronizado com toda a infraestrutura e segurança adequadas para este fim.
 - Quero agradecer à empresa por ter nos contratado e acreditado no nosso serviço e empenho para realizar mais um projeto tão importante.
